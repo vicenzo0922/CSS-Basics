@@ -9,3 +9,7 @@
 #fb {
     color:rgb(180, 20, 220) !important;
 }
+
+body {
+    background-color: bisque;
+}
